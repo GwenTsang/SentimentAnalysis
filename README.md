@@ -5,8 +5,12 @@ Here some test on automatic sentiment analysis
 
 https://aclanthology.org/2023.konvens-main.17.pdf
 
-# Corpus
+# Model
 
 https://huggingface.co/models?other=sentiment-analysis
+
+# Corpus
+
+https://huggingface.co/datasets?sort=trending&search=sentiment
 
 https://github.com/fmplaza/EmoEvent/blob/master/emoevent_en.csv
